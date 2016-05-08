@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "AL";  
+        echo "AL1605";  
         ?>
     </body>
 </html>
